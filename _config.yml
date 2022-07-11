@@ -1,2 +1,3 @@
 theme: jekyll-theme-minimal
-logo: /docs/assets/css/Logo.png
+logo: docs/assets/css/Logo.png
+description: test
