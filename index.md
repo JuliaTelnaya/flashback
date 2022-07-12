@@ -12,3 +12,7 @@ Flashback analyzes your photo gallery to find best photos you have shot in the p
   - Share beautiful moments with your friends and family 
 
 Your lifelong memories delivered on a daily basis. Re-Enjoy this moment of your life again!
+
+### Contact Us
+
+If you have any questions or suggestions, do not hesitate to contact us by e-mailing app.flashback@gmail.com.
